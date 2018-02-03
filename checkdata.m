@@ -1,3 +1,4 @@
+%This code is the part I work with in the lab. I picked this part because it is my most recent code.
 %Threshold is 250 
 function checkdata(srcFolder,desFolder,nSubRows,nSubCols,random)
     writeID = fopen('check_count.txt','a+');
